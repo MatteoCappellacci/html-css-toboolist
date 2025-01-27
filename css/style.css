@@ -60,7 +60,7 @@
 .margine{
     margin-top: 20px;
 }
-.strong-list{
+.h3-list{
 font-size: 20px;
 }
 .editorial-color {
@@ -93,4 +93,8 @@ font-size: 20px;
 }
 li {
     padding: 5px;
+}
+
+ul{
+    list-style: none;
 }
