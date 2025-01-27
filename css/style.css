@@ -56,3 +56,41 @@
     background-color: white;
     border: 1px solid rgb(172, 164, 164);
 }
+
+.margine{
+    margin-top: 20px;
+}
+.strong-list{
+font-size: 20px;
+}
+.editorial-color {
+    background-color: rgb(1, 179, 255, 0.995)
+
+}
+.goals-color {
+    background-color: rgba(163, 27, 163, 0.794);
+}
+.recruting-color { background-color: rgb(27, 202, 138);
+
+}
+.mobile-color {background-color: orange;
+
+}
+.website-color{background-color: rgba(208, 64, 112, 0.733);
+
+}
+.sales-color {background-color: rgba(80, 168, 80, 0.822)
+
+}
+.tag-list {
+    display: inline-block;
+    border-radius: 10px;
+    padding: 3px 10px;
+    font-size: 8px;
+    color: white;
+
+
+}
+li {
+    padding: 5px;
+}
