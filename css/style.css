@@ -98,3 +98,9 @@ li {
 ul{
     list-style: none;
 }
+.green-tag{
+    color: green;
+    font-size:  12px;
+    display: inline-block;
+
+}
